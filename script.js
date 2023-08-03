@@ -59,6 +59,7 @@ function createAgGridTable(data) {
 		rowGroupPanelShow: 'always',
 		enableCharts: true,
     	enableRangeSelection: true,
+		popupParent: document.body,
 	};
 
 	// Get the grid container element
