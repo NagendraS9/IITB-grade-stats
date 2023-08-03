@@ -35,6 +35,28 @@ function createAgGridTable(data) {
 			valueFormatter : params => (parseFloat(params.value).toFixed(2)+"%"),
 			hide: true,
 		} ,
+		{ 
+			headerName: 'AA+AB', 
+			chartDataType: 'series', 
+			valueGetter: function (params) {
+				return params.data.AB + params.data.AA;
+			}, 
+			aggFunc: 'avg', 
+			valueFormatter : params => Number.isInteger(params.value)?params.value:parseFloat(params.value).toFixed(2), 
+			hide: true
+		} ,
+		{ 
+			headerName: '(AA+AB)%', 
+			chartDataType: 'series', 
+			valueGetter: function (params) {
+				const aa_ab = params.data.AA+params.data.AB;
+				const total = params.data.Total;
+				return (total !== 0) ? (aa_ab / total * 100)  : 0;
+			}, 
+			aggFunc: 'avg', 
+			valueFormatter : params => (parseFloat(params.value).toFixed(2)+"%"),
+			hide: true,
+		} ,
 		{ headerName: 'AU', field: 'AU', chartDataType: 'series', aggFunc: 'avg', valueFormatter : params => Number.isInteger(params.value)?params.value:parseFloat(params.value).toFixed(2), hide: true},
 		{ headerName: 'BB', field: 'BB', chartDataType: 'series', aggFunc: 'avg', valueFormatter : params => Number.isInteger(params.value)?params.value:parseFloat(params.value).toFixed(2), hide: true},
 		{ headerName: 'BC', field: 'BC', chartDataType: 'series', aggFunc: 'avg', valueFormatter : params => Number.isInteger(params.value)?params.value:parseFloat(params.value).toFixed(2), hide: true},
