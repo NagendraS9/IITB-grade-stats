@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>JavaScript example</title>
+		<title>IITB Grading Stats</title>
 		<meta charSet="UTF-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<style media="only screen">
@@ -28,7 +28,8 @@
         </style>
 	</head>
 	<body>
-		<div id="myGrid" style="height: 100%" class="ag-theme-alpine">
+        <input type="text" id="filter-text-box" style="margin-bottom: 12px; width:99%" placeholder="Quick Filter..." oninput="onFilterTextBoxChanged()">
+		<div id="myGrid" style="height: 100%;" class="ag-theme-alpine">
 		</div>
 		<script>var __basePath = './';</script>
 		<script src="https://cdn.jsdelivr.net/npm/ag-grid-enterprise@30.0.6/dist/ag-grid-enterprise.min.js">
