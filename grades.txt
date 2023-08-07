@@ -3317,346 +3317,346 @@
 {"course_name": "CS692", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "7", "BB": "2", "Total": "9"}
 {"course_name": "CS692", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "1", "BB": "1", "Total": "3"}
 {"course_name": "CS692", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "AB": "2", "Total": "5"}
-{'course_name': 'GNR805', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AU': '1', 'II': '1', 'Total': '3'}
-{'course_name': 'GNR805', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AU': '1', 'CC': '2', 'Total': '7'}
-{'course_name': 'SOM663', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '12', 'AU': '1', 'BB': '7', 'BC': '6', 'Total': '32'}
-{'course_name': 'SOM663', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '7', 'BB': '18', 'BC': '3', 'FR': '1', 'Total': '36'}
-{'course_name': 'SOM663', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '18', 'BB': '19', 'BC': '10', 'Total': '55'}
-{'course_name': 'SOM651', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '2', 'BB': '1', 'BC': '5', 'CC': '4', 'Total': '12'}
-{'course_name': 'SOM651', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '6', 'Total': '6'}
-{'course_name': 'SOM703', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '10', 'BB': '9', 'BC': '6', 'CC': '5', 'Total': '33'}
-{'course_name': 'SOM703', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '3', 'BB': '4', 'BC': '4', 'CC': '1', 'FR': '1', 'Total': '15'}
-{'course_name': 'SOM703', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '5', 'BB': '17', 'BC': '7', 'CC': '3', 'CD': '3', 'DD': '1', 'Total': '40'}
-{'course_name': 'PSS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '4', 'BB': '4', 'BC': '1', 'Total': '11'}
-{'course_name': 'PSS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '8', 'BB': '7', 'CC': '1', 'II': '1', 'Total': '23'}
-{'course_name': 'PSS801', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AB': '1', 'Total': '1'}
-{'course_name': 'PSS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '7', 'BB': '1', 'Total': '10'}
-{'course_name': 'SOM609', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '13', 'AB': '44', 'BB': '44', 'BC': '9', 'FF': '6', 'Total': '116'}
-{'course_name': 'SOM609', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '19', 'AB': '32', 'BB': '46', 'BC': '20', 'Total': '117'}
-{'course_name': 'SOM609', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '25', 'BB': '54', 'BC': '26', 'Total': '115'}
-{'course_name': 'SOM609', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '36', 'BB': '44', 'BC': '17', 'CC': '2', 'Total': '110'}
-{'course_name': 'DEP301', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '24', 'AB': '8', 'CC': '3', 'Total': '35'}
-{'course_name': 'DEP301', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '9', 'DD': '3', 'FR': '9', 'Total': '32'}
-{'course_name': 'DEP301', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '20', 'BB': '5', 'Total': '34'}
-{'course_name': 'DEP301', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '9', 'BB': '7', 'FR': '3', 'Total': '27'}
-{'course_name': 'SOM654', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '4', 'BB': '3', 'BC': '3', 'CC': '4', 'Total': '16'}
-{'course_name': 'SOM654', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '8', 'BB': '6', 'BC': '4', 'CC': '1', 'Total': '19'}
-{'course_name': 'SOM654', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '3', 'BB': '4', 'BC': '1', 'CD': '1', 'Total': '10'}
-{'course_name': 'GNR617', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '14', 'AU': '1', 'BB': '5', 'Total': '30'}
-{'course_name': 'GNR617', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '7', 'BB': '5', 'BC': '1', 'FR': '2', 'Total': '24'}
-{'course_name': 'GNR617', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '10', 'BB': '7', 'BC': '7', 'CC': '1', 'FR': '1', 'Total': '31'}
-{'course_name': 'GNR617', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '14', 'AB': '10', 'BC': '1', 'FR': '1', 'Total': '26'}
-{'course_name': 'MNG803', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '3', 'BB': '2', 'BC': '2', 'Total': '8'}
-{'course_name': 'MNG803', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '4', 'BB': '5', 'BC': '5', 'CC': '5', 'CD': '4', 'DD': '4', 'FF': '7', 'FR': '7', 'Total': '42'}
-{'course_name': 'MNG803', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'BB': '1', 'BC': '2', 'CC': '1', 'CD': '1', 'DD': '1', 'Total': '6'}
-{'course_name': 'MNG803', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '4', 'Total': '6'}
-{'course_name': 'MNG803', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '1', 'AU': '1', 'BB': '1', 'Total': '4'}
-{'course_name': 'MGT805', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '4', 'BB': '2', 'Total': '9'}
-{'course_name': 'MGT805', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '10', 'BB': '9', 'BC': '1', 'Total': '22'}
-{'course_name': 'MGT805', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '14', 'AU': '1', 'BB': '3', 'BC': '1', 'Total': '25'}
-{'course_name': 'MGT805', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '2', 'Total': '7'}
-{'course_name': 'CMS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '2', 'FF': '2', 'Total': '5'}
-{'course_name': 'CMS801', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AB': '2', 'II': '1', 'Total': '3'}
-{'course_name': 'CMS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '3', 'BB': '1', 'II': '1', 'Total': '8'}
-{'course_name': 'CMS801', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '1', 'Total': '3'}
-{'course_name': 'CMS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '1', 'Total': '2'}
-{'course_name': 'CMS801', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '6', 'BB': '1', 'FR': '1', 'II': '2', 'Total': '15'}
-{'course_name': 'CMS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '5', 'BB': '3', 'BC': '1', 'Total': '10'}
-{'course_name': 'CMS801', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '2', 'CC': '1', 'Total': '5'}
-{'course_name': 'SOM603', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '35', 'BB': '41', 'BC': '14', 'CC': '9', 'CD': '4', 'DD': '2', 'FR': '5', 'Total': '120'}
-{'course_name': 'SOM603', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '16', 'AU': '2', 'BB': '28', 'BC': '31', 'CC': '28', 'CD': '12', 'DD': '2', 'Total': '122'}
-{'course_name': 'SOM603', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '28', 'AB': '55', 'BB': '21', 'BC': '8', 'CC': '2', 'CD': '1', 'Total': '115'}
-{'course_name': 'SOM603', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '29', 'BB': '27', 'BC': '25', 'CC': '10', 'CD': '6', 'DD': '3', 'Total': '111'}
-{'course_name': 'SOM611', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '17', 'BB': '23', 'BC': '20', 'CC': '30', 'CD': '12', 'DD': '1', 'FR': '6', 'Total': '117'}
-{'course_name': 'SOM611', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '11', 'BB': '33', 'BC': '39', 'CC': '20', 'CD': '6', 'DD': '1', 'Total': '119'}
-{'course_name': 'SOM611', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '12', 'BB': '27', 'BC': '35', 'CC': '29', 'CD': '4', 'DD': '2', 'Total': '116'}
-{'course_name': 'SOM611', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '22', 'AU': '1', 'BB': '48', 'BC': '27', 'CC': '2', 'CD': '1', 'Total': '111'}
-{'course_name': 'SOM601', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '14', 'AB': '38', 'BB': '23', 'BC': '25', 'CC': '13', 'FF': '5', 'Total': '118'}
-{'course_name': 'SOM601', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '58', 'BB': '41', 'BC': '8', 'Total': '117'}
-{'course_name': 'SOM601', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '13', 'AB': '35', 'BB': '35', 'BC': '32', 'Total': '115'}
-{'course_name': 'SOM601', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '15', 'BB': '31', 'BC': '42', 'CC': '21', 'CD': '4', 'Total': '115'}
-{'course_name': 'SOM690', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '22', 'BB': '18', 'BC': '10', 'CC': '3', 'Total': '60'}
-{'course_name': 'SOM690', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '21', 'BB': '32', 'BC': '16', 'Total': '75'}
-{'course_name': 'SOM690', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '13', 'AB': '30', 'BB': '15', 'BC': '3', 'CC': '1', 'Total': '62'}
-{'course_name': 'MMS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '9', 'BB': '2', 'II': '1', 'Total': '17'}
-{'course_name': 'MMS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '14', 'AB': '5', 'BB': '3', 'Total': '22'}
-{'course_name': 'MMS801', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '6', 'BB': '2', 'II': '1', 'Total': '13'}
-{'course_name': 'MMS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '7', 'BB': '2', 'II': '1', 'Total': '17'}
-{'course_name': 'MMS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '13', 'BB': '2', 'Total': '24'}
-{'course_name': 'ENT609', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '9', 'BB': '2', 'FF': '2', 'II': '2', 'Total': '19'}
-{'course_name': 'ENT609', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for section M are', 'AA': '2', 'AB': '5', 'BB': '3', 'BC': '1', 'FF': '2', 'Total': '13'}
-{'course_name': 'ENT609', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '13', 'AU': '1', 'BB': '10', 'BC': '6', 'Total': '38'}
-{'course_name': 'ENT609', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for section M are', 'AA': '1', 'AB': '3', 'BB': '6', 'BC': '2', 'Total': '12'}
-{'course_name': 'DEP102', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'PP': '39', 'Total': '39'}
-{'course_name': 'DEP102', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AU': '33', 'Total': '33'}
-{'course_name': 'CHS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '7', 'BB': '2', 'Total': '15'}
-{'course_name': 'CHS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for section CH are', 'BB': '1', 'Total': '1'}
-{'course_name': 'CHS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '10', 'Total': '17'}
-{'course_name': 'CHS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '5', 'BB': '6', 'BC': '3', 'CC': '1', 'Total': '20'}
-{'course_name': 'CHS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '7', 'BB': '2', 'Total': '18'}
-{'course_name': 'SOM637', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '16', 'AU': '1', 'BB': '20', 'BC': '15', 'FR': '1', 'Total': '62'}
-{'course_name': 'SOM637', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '13', 'BB': '7', 'Total': '30'}
-{'course_name': 'SOM709', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '13', 'BB': '17', 'BC': '12', 'CC': '4', 'CD': '2', 'DD': '3', 'Total': '61'}
-{'course_name': 'SOM709', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '12', 'AB': '19', 'AP': '2', 'AU': '1', 'BB': '51', 'BC': '17', 'Total': '102'}
-{'course_name': 'SOM634', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '2', 'BB': '4', 'BC': '1', 'CC': '2', 'Total': '10'}
-{'course_name': 'SOM634', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '3', 'BB': '6', 'BC': '8', 'CC': '2', 'CD': '1', 'Total': '22'}
-{'course_name': 'SOM634', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '5', 'BB': '12', 'BC': '19', 'CC': '11', 'CD': '2', 'FR': '1', 'Total': '52'}
-{'course_name': 'ENT606', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '34', 'AB': '99', 'AU': '2', 'BB': '50', 'BC': '21', 'CC': '5', 'DD': '6', 'FF': '2', 'Total': '219'}
-{'course_name': 'ENT606', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for section M are', 'AA': '8', 'AB': '8', 'BB': '8', 'BC': '6', 'CC': '2', 'DD': '1', 'Total': '33'}
-{'course_name': 'ENT606', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '124', 'AB': '22', 'BB': '19', 'BC': '6', 'CC': '14', 'DD': '4', 'FR': '8', 'Total': '197'}
-{'course_name': 'ENT606', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for section M are', 'AA': '23', 'AB': '3', 'BB': '5', 'CC': '2', 'DD': '1', 'FR': '1', 'Total': '35'}
-{'course_name': 'ENT606', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for section S2 are', 'II': '1', 'Total': '1'}
-{'course_name': 'ENT606', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '23', 'AB': '3', 'BB': '5', 'BC': '1', 'CC': '1', 'FF': '3', 'Total': '36'}
-{'course_name': 'GNR627', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '4', 'AU': '6', 'BB': '3', 'Total': '20'}
-{'course_name': 'GNR627', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '3', 'AU': '7', 'BB': '3', 'BC': '1', 'Total': '22'}
-{'course_name': 'GNR627', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '5', 'AU': '6', 'BB': '1', 'Total': '16'}
-{'course_name': 'GNR627', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '5', 'AU': '7', 'BB': '1', 'Total': '15'}
-{'course_name': 'DHS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'Total': '5'}
-{'course_name': 'DHS801', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '1', 'Total': '2'}
-{'course_name': 'IES801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '2', 'BB': '2', 'BC': '1', 'Total': '6'}
-{'course_name': 'IES801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'FR': '1', 'Total': '4'}
-{'course_name': 'IES801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '3', 'Total': '6'}
-{'course_name': 'IES801', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'BB': '1', 'Total': '2'}
-{'course_name': 'MGT801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '1', 'BB': '6', 'Total': '8'}
-{'course_name': 'MGT801', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '4', 'BB': '10', 'BC': '5', 'CC': '1', 'Total': '22'}
-{'course_name': 'MGT801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '1', 'BB': '3', 'Total': '5'}
-{'course_name': 'MGT801', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '9', 'BB': '3', 'FR': '1', 'Total': '24'}
-{'course_name': 'SOM622', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '22', 'BB': '24', 'BC': '8', 'CC': '2', 'Total': '62'}
-{'course_name': 'SOM622', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '10', 'AU': '1', 'BB': '25', 'BC': '14', 'CC': '2', 'CD': '3', 'Total': '61'}
-{'course_name': 'SOM608', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '12', 'AB': '27', 'BB': '45', 'BC': '20', 'CC': '5', 'CD': '1', 'FR': '2', 'Total': '112'}
-{'course_name': 'SOM608', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '18', 'BB': '59', 'BC': '25', 'CC': '2', 'Total': '115'}
-{'course_name': 'SOM608', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '13', 'AB': '22', 'BB': '53', 'BC': '20', 'CC': '6', 'CD': '1', 'Total': '115'}
-{'course_name': 'SOM608', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '15', 'BB': '41', 'BC': '22', 'CC': '13', 'CD': '8', 'DD': '2', 'Total': '110'}
-{'course_name': 'GNR653', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '3', 'AU': '1', 'II': '1', 'Total': '7'}
-{'course_name': 'GNR653', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '6', 'AU': '2', 'BB': '4', 'BC': '1', 'Total': '13'}
-{'course_name': 'GNR653', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '2', 'AU': '1', 'BC': '1', 'Total': '6'}
-{'course_name': 'GNR653', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '3', 'AU': '3', 'Total': '7'}
-{'course_name': 'SOM604', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '15', 'BB': '43', 'BC': '37', 'CC': '7', 'CD': '3', 'DD': '1', 'FR': '5', 'Total': '116'}
-{'course_name': 'SOM604', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '29', 'BB': '52', 'BC': '22', 'CC': '6', 'Total': '119'}
-{'course_name': 'SOM604', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '14', 'BB': '50', 'BC': '32', 'CC': '11', 'CD': '5', 'DD': '1', 'Total': '115'}
-{'course_name': 'SOM604', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '27', 'BB': '44', 'BC': '28', 'CC': '8', 'CD': '1', 'Total': '110'}
-{'course_name': 'CMS802', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '1', 'Total': '2'}
-{'course_name': 'SOM705', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '18', 'BB': '15', 'BC': '20', 'CC': '3', 'CD': '1', 'Total': '60'}
-{'course_name': 'SOM705', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '37', 'AB': '40', 'BB': '16', 'BC': '1', 'Total': '94'}
-{'course_name': 'SOM705', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '26', 'AB': '29', 'BB': '4', 'BC': '1', 'Total': '60'}
-{'course_name': 'CSS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '2', 'Total': '6'}
-{'course_name': 'CSS801', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '7', 'BB': '1', 'BC': '1', 'II': '1', 'Total': '10'}
-{'course_name': 'CSS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '4', 'Total': '11'}
-{'course_name': 'CSS801', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '3', 'Total': '3'}
-{'course_name': 'CSS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '2', 'DD': '1', 'FR': '1', 'Total': '10'}
-{'course_name': 'CSS801', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'Total': '1'}
-{'course_name': 'CSS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '1', 'CC': '1', 'Total': '4'}
-{'course_name': 'CSS801', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '1', 'Total': '5'}
-{'course_name': 'USS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'BB': '1', 'FF': '1', 'Total': '4'}
-{'course_name': 'USS801', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'FR': '1', 'Total': '3'}
-{'course_name': 'USS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'Total': '1'}
-{'course_name': 'USS801', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '2', 'BB': '1', 'Total': '4'}
-{'course_name': 'USS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '1', 'II': '1', 'Total': '3'}
-{'course_name': 'USS801', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '1', 'Total': '4'}
-{'course_name': 'USS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '1', 'BC': '1', 'FR': '2', 'Total': '4'}
-{'course_name': 'SOM653', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '3', 'BB': '5', 'BC': '2', 'CC': '2', 'CD': '1', 'Total': '14'}
-{'course_name': 'SOM653', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '5', 'BB': '9', 'BC': '4', 'CC': '2', 'CD': '1', 'Total': '22'}
-{'course_name': 'SOM653', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '6', 'AU': '2', 'BB': '7', 'BC': '7', 'CC': '1', 'Total': '25'}
-{'course_name': 'IWE709', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '12', 'BB': '30', 'Total': '42'}
-{'course_name': 'IWE709', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '11', 'BB': '30', 'Total': '41'}
-{'course_name': 'IWE709', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'Total': '1'}
-{'course_name': 'IWE709', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'BB': '4', 'Total': '6'}
-{'course_name': 'ENT602', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '8', 'AU': '1', 'BB': '8', 'Total': '21'}
-{'course_name': 'ENT602', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for section M are', 'AA': '7', 'AB': '3', 'BB': '6', 'BC': '4', 'CC': '3', 'CD': '2', 'Total': '25'}
-{'course_name': 'ENT602', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '9', 'AU': '4', 'BB': '5', 'BC': '7', 'CC': '2', 'FR': '1', 'Total': '36'}
-{'course_name': 'ENT602', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for section M are', 'AA': '1', 'AB': '1', 'BB': '3', 'BC': '2', 'CC': '1', 'Total': '8'}
-{'course_name': 'ENT602', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '2', 'AU': '2', 'BB': '5', 'BC': '1', 'CC': '1', 'Total': '15'}
-{'course_name': 'ENT602', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for section M are', 'CC': '1', 'Total': '1'}
-{'course_name': 'ENT602', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '1', 'BB': '7', 'PP': '1', 'Total': '13'}
-{'course_name': 'SOM698', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '16', 'AU': '1', 'BB': '18', 'BC': '18', 'CC': '8', 'CD': '1', 'Total': '64'}
-{'course_name': 'SOM698', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '13', 'BB': '10', 'BC': '8', 'CC': '5', 'Total': '36'}
-{'course_name': 'SOM698', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '6', 'AU': '1', 'BB': '6', 'BC': '9', 'CC': '5', 'CD': '2', 'Total': '32'}
-{'course_name': 'ENT603', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for section M are', 'AA': '25', 'AB': '26', 'BB': '11', 'BC': '2', 'CC': '3', 'Total': '67'}
-{'course_name': 'ENT603', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for section S1 are', 'AA': '29', 'AB': '17', 'BB': '11', 'BC': '1', 'CC': '1', 'Total': '59'}
-{'course_name': 'ENT603', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for section S2 are', 'AA': '22', 'AB': '26', 'AU': '1', 'BB': '5', 'BC': '2', 'Total': '56'}
-{'course_name': 'ENT603', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '27', 'AB': '66', 'AP': '2', 'AU': '1', 'BB': '32', 'BC': '15', 'CC': '2', 'CD': '1', 'Total': '146'}
-{'course_name': 'ENT603', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for section M are', 'AA': '10', 'AB': '19', 'BB': '7', 'BC': '2', 'CC': '1', 'Total': '39'}
-{'course_name': 'ENT603', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '6', 'AU': '1', 'BB': '10', 'BC': '5', 'CC': '1', 'FR': '1', 'Total': '31'}
-{'course_name': 'ENT603', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '4', 'AU': '2', 'BB': '7', 'BC': '2', 'CC': '1', 'CD': '1', 'Total': '20'}
-{'course_name': 'SOM793', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AB': '2', 'Total': '2'}
-{'course_name': 'SOM606', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '16', 'BB': '31', 'BC': '36', 'CC': '11', 'CD': '7', 'DD': '9', 'FR': '6', 'Total': '120'}
-{'course_name': 'SOM606', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '22', 'BB': '35', 'BC': '47', 'CC': '6', 'CD': '1', 'DD': '1', 'Total': '118'}
-{'course_name': 'SOM606', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '15', 'BB': '27', 'BC': '29', 'CC': '35', 'CD': '2', 'Total': '115'}
-{'course_name': 'SOM606', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '7', 'BB': '32', 'BC': '49', 'CC': '8', 'CD': '6', 'DD': '5', 'Total': '110'}
-{'course_name': 'MES801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '5', 'BB': '3', 'CC': '1', 'FR': '2', 'II': '1', 'Total': '22'}
-{'course_name': 'MES801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for section S3 are', 'Total': '22'}
-{'course_name': 'MES801', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '14', 'AB': '6', 'BB': '1', 'FR': '1', 'II': '1', 'Total': '23'}
-{'course_name': 'MES801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '15', 'AB': '5', 'BB': '2', 'FR': '3', 'Total': '25'}
-{'course_name': 'MES801', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '14', 'BB': '2', 'II': '7', 'Total': '31'}
-{'course_name': 'MES801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '4', 'BB': '4', 'FR': '1', 'Total': '15'}
-{'course_name': 'MES801', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '8', 'BB': '2', 'Total': '21'}
-{'course_name': 'MES801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '5', 'BB': '1', 'Total': '15'}
-{'course_name': 'MES801', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '17', 'AB': '15', 'BB': '4', 'BC': '1', 'Total': '37'}
-{'course_name': 'SOM661', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '6', 'BB': '27', 'BC': '20', 'CC': '2', 'CD': '1', 'Total': '59'}
-{'course_name': 'SOM661', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '11', 'BB': '10', 'BC': '1', 'Total': '24'}
-{'course_name': 'SOM661', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '13', 'BB': '19', 'BC': '6', 'CC': '1', 'Total': '44'}
-{'course_name': 'CES801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '21', 'AB': '12', 'BB': '2', 'CC': '1', 'II': '1', 'Total': '37'}
-{'course_name': 'CES801', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '5', 'BB': '2', 'BC': '1', 'Total': '14'}
-{'course_name': 'CES801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '20', 'AB': '3', 'BB': '7', 'BC': '1', 'CC': '1', 'II': '1', 'Total': '33'}
-{'course_name': 'CES801', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '5', 'BB': '3', 'II': '1', 'Total': '12'}
-{'course_name': 'CES801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '17', 'AB': '2', 'BB': '1', 'Total': '20'}
-{'course_name': 'CES801', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '3', 'BB': '1', 'II': '1', 'Total': '16'}
-{'course_name': 'CES801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '16', 'AB': '15', 'BB': '2', 'BC': '1', 'Total': '34'}
-{'course_name': 'CES801', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '4', 'Total': '12'}
-{'course_name': 'SOM671', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '8', 'BB': '3', 'BC': '4', 'FF': '5', 'Total': '23'}
-{'course_name': 'SOM671', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '1', 'AU': '2', 'CC': '1', 'CD': '1', 'Total': '7'}
-{'course_name': 'SOM624', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '3', 'BB': '8', 'BC': '13', 'CC': '9', 'CD': '5', 'Total': '41'}
-{'course_name': 'SOM624', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '4', 'AU': '1', 'BB': '15', 'BC': '10', 'CC': '7', 'CD': '3', 'Total': '44'}
-{'course_name': 'DEP702', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '10', 'BB': '18', 'BC': '5', 'FF': '34', 'FR': '1', 'Total': '75'}
-{'course_name': 'DEP702', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '12', 'AB': '15', 'BB': '13', 'BC': '4', 'FR': '1', 'II': '10', 'Total': '55'}
-{'course_name': 'DEP702', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'FF': '1', 'FR': '1', 'Total': '2'}
-{'course_name': 'DEP702', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '12', 'BB': '12', 'BC': '4', 'FF': '30', 'Total': '64'}
-{'course_name': 'DEP702', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'BB': '1', 'BC': '1', 'Total': '2'}
-{'course_name': 'DEP702', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '12', 'BB': '13', 'BC': '4', 'CC': '1', 'FF': '22', 'Total': '61'}
-{'course_name': 'SOM610', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '28', 'BB': '29', 'BC': '22', 'CC': '20', 'FR': '1', 'Total': '111'}
-{'course_name': 'SOM610', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '14', 'BB': '52', 'BC': '33', 'CC': '8', 'Total': '117'}
-{'course_name': 'SOM610', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'BB': '12', 'BC': '25', 'CC': '30', 'CD': '32', 'DD': '16', 'Total': '115'}
-{'course_name': 'SOM610', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '12', 'AB': '21', 'BB': '48', 'BC': '22', 'CC': '7', 'Total': '110'}
-{'course_name': 'SOM607', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '11', 'BB': '19', 'BC': '18', 'CC': '14', 'CD': '23', 'DD': '19', 'FF': '6', 'FR': '2', 'Total': '112'}
-{'course_name': 'SOM607', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '23', 'BB': '56', 'BC': '27', 'Total': '114'}
-{'course_name': 'SOM607', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '15', 'BB': '32', 'BC': '32', 'CC': '17', 'CD': '17', 'Total': '115'}
-{'course_name': 'SOM607', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '12', 'BB': '20', 'BC': '33', 'CC': '23', 'CD': '14', 'DD': '1', 'Total': '110'}
-{'course_name': 'GNR605', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '13', 'AU': '1', 'BB': '12', 'BC': '1', 'Total': '32'}
-{'course_name': 'GNR605', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '6', 'AU': '3', 'BB': '5', 'BC': '2', 'FR': '2', 'Total': '27'}
-{'course_name': 'GNR605', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '11', 'AU': '4', 'BB': '9', 'BC': '3', 'CC': '1', 'Total': '36'}
-{'course_name': 'GNR605', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '11', 'BB': '7', 'BC': '2', 'FF': '1', 'Total': '29'}
-{'course_name': 'GNR603', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '13', 'AB': '10', 'BB': '9', 'BC': '5', 'Total': '37'}
-{'course_name': 'GNR603', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '11', 'BB': '8', 'BC': '3', 'FR': '2', 'Total': '32'}
-{'course_name': 'GNR603', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '9', 'AU': '1', 'BB': '12', 'BC': '8', 'Total': '40'}
-{'course_name': 'GNR603', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '9', 'BB': '10', 'BC': '4', 'DD': '1', 'Total': '32'}
-{'course_name': 'SOM655', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '5', 'BB': '4', 'BC': '12', 'CC': '8', 'CD': '1', 'Total': '30'}
-{'course_name': 'SOM655', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '4', 'BB': '4', 'BC': '10', 'CC': '2', 'CD': '1', 'Total': '23'}
-{'course_name': 'SOM655', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '3', 'AU': '1', 'BB': '9', 'BC': '8', 'Total': '23'}
-{'course_name': 'SOM801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '4', 'BB': '3', 'CC': '1', 'Total': '12'}
-{'course_name': 'SOM710', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '17', 'BB': '32', 'BC': '13', 'Total': '62'}
-{'course_name': 'SOM710', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '12', 'AB': '23', 'BB': '35', 'BC': '7', 'Total': '77'}
-{'course_name': 'GNR623', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '1', 'AU': '1', 'BB': '1', 'BC': '2', 'FF': '2', 'Total': '10'}
-{'course_name': 'GNR623', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '3', 'BB': '2', 'BC': '1', 'CC': '1', 'Total': '11'}
-{'course_name': 'GNR623', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '7', 'BB': '2', 'BC': '1', 'FR': '1', 'Total': '19'}
-{'course_name': 'GNR623', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '3', 'BB': '2', 'CC': '1', 'Total': '13'}
-{'course_name': 'BBS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '4', 'BB': '3', 'FF': '1', 'II': '1', 'Total': '18'}
-{'course_name': 'BBS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '11', 'BB': '1', 'Total': '18'}
-{'course_name': 'BBS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '7', 'BB': '2', 'Total': '12'}
-{'course_name': 'BBS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '16', 'AB': '5', 'FR': '2', 'Total': '23'}
-{'course_name': 'GNR607', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '13', 'AB': '11', 'AU': '1', 'BB': '17', 'BC': '2', 'CC': '5', 'CD': '2', 'DD': '2', 'FF': '1', 'Total': '54'}
-{'course_name': 'GNR607', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '6', 'BB': '3', 'BC': '5', 'CC': '1', 'FF': '2', 'Total': '27'}
-{'course_name': 'GNR607', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '9', 'BB': '12', 'BC': '5', 'CC': '4', 'DD': '4', 'FF': '1', 'II': '1', 'Total': '44'}
-{'course_name': 'GNR607', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '6', 'BB': '9', 'BC': '6', 'CC': '4', 'FF': '2', 'Total': '36'}
-{'course_name': 'IWE716', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'BB': '33', 'Total': '42'}
-{'course_name': 'IWE716', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'BB': '30', 'CC': '3', 'Total': '41'}
-{'course_name': 'IWE716', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'BB': '4', 'Total': '6'}
-{'course_name': 'IWE706', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '21', 'BB': '63', 'Total': '84'}
-{'course_name': 'IWE706', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '3', 'BB': '3', 'Total': '6'}
-{'course_name': 'PSS803', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '9', 'BB': '6', 'BC': '1', 'Total': '19'}
-{'course_name': 'PSS803', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '1', 'Total': '2'}
-{'course_name': 'PSS803', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for section 0 are', 'AB': '1', 'Total': '1'}
-{'course_name': 'PSS803', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '1', 'II': '1', 'Total': '4'}
-{'course_name': 'PSS803', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'II': '2', 'Total': '2'}
-{'course_name': 'PSS803', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '3', 'BB': '3', 'BC': '1', 'Total': '10'}
-{'course_name': 'GSS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '4', 'BC': '1', 'Total': '10'}
-{'course_name': 'GSS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '7', 'BB': '1', 'II': '1', 'Total': '16'}
-{'course_name': 'GSS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '5', 'BB': '1', 'BC': '1', 'Total': '10'}
-{'course_name': 'GSS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '4', 'BB': '2', 'BC': '1', 'Total': '16'}
-{'course_name': 'IWE708', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'BB': '33', 'CC': '1', 'Total': '43'}
-{'course_name': 'IWE708', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'BB': '34', 'Total': '41'}
-{'course_name': 'IWE708', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'BB': '4', 'Total': '6'}
-{'course_name': 'SOM605', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '10', 'AU': '1', 'BB': '19', 'BC': '24', 'CC': '23', 'CD': '14', 'DD': '17', 'FF': '6', 'II': '5', 'Total': '123'}
-{'course_name': 'SOM605', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '12', 'BB': '29', 'BC': '40', 'CC': '16', 'CD': '9', 'DD': '1', 'Total': '114'}
-{'course_name': 'SOM605', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '14', 'AU': '1', 'BB': '26', 'BC': '48', 'CC': '14', 'CD': '8', 'Total': '116'}
-{'course_name': 'SOM605', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '9', 'BB': '19', 'BC': '22', 'CC': '30', 'CD': '18', 'DD': '6', 'FF': '2', 'Total': '111'}
-{'course_name': 'SOM650', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '2', 'BB': '6', 'BC': '6', 'CC': '9', 'CD': '5', 'Total': '30'}
-{'course_name': 'SOM650', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '19', 'BB': '13', 'BC': '2', 'CC': '11', 'CD': '1', 'Total': '54'}
-{'course_name': 'SOM650', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '29', 'AU': '10', 'BB': '15', 'BC': '3', 'Total': '68'}
-{'course_name': 'HSS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '7', 'BB': '3', 'FR': '1', 'II': '3', 'Total': '17'}
-{'course_name': 'HSS801', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'BB': '1', 'Total': '1'}
-{'course_name': 'HSS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '13', 'BB': '3', 'BC': '1', 'Total': '23'}
-{'course_name': 'HSS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '10', 'BB': '2', 'II': '1', 'Total': '23'}
-{'course_name': 'HSS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '6', 'AB': '10', 'BB': '5', 'Total': '21'}
-{'course_name': 'SOM602', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '15', 'BB': '37', 'BC': '35', 'CC': '18', 'CD': '3', 'FR': '5', 'Total': '116'}
-{'course_name': 'SOM602', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '26', 'BB': '52', 'BC': '28', 'CC': '3', 'Total': '114'}
-{'course_name': 'SOM602', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '19', 'AB': '51', 'BB': '25', 'BC': '19', 'CC': '1', 'Total': '115'}
-{'course_name': 'SOM602', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '20', 'BB': '41', 'BC': '36', 'CC': '4', 'CD': '1', 'Total': '110'}
-{'course_name': 'SOM642', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '14', 'AB': '18', 'AU': '21', 'BB': '22', 'BC': '4', 'CC': '1', 'CD': '1', 'Total': '81'}
-{'course_name': 'SOM642', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '12', 'AU': '6', 'BB': '30', 'BC': '16', 'CC': '3', 'Total': '76'}
-{'course_name': 'SOM642', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '9', 'AU': '15', 'BB': '18', 'BC': '7', 'Total': '54'}
-{'course_name': 'SOM697', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '15', 'BB': '9', 'BC': '5', 'CC': '1', 'Total': '34'}
-{'course_name': 'SOM697', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '21', 'BB': '38', 'BC': '10', 'CC': '4', 'Total': '80'}
-{'course_name': 'SOM697', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '13', 'BB': '27', 'BC': '10', 'CC': '3', 'Total': '57'}
-{'course_name': 'GNR899', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'PP': '7', 'Total': '7'}
-{'course_name': 'GNR899', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'NP': '7', 'PP': '31', 'Total': '38'}
-{'course_name': 'GNR899', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'PP': '30', 'Total': '30'}
-{'course_name': 'GNR619', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '13', 'BB': '14', 'BC': '11', 'CC': '8', 'CD': '5', 'Total': '62'}
-{'course_name': 'GNR619', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '10', 'BB': '6', 'BC': '1', 'DD': '2', 'FR': '2', 'Total': '29'}
-{'course_name': 'GNR619', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '8', 'AU': '1', 'BB': '10', 'BC': '5', 'CC': '1', 'Total': '32'}
-{'course_name': 'GNR619', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '10', 'BB': '6', 'BC': '2', 'DD': '1', 'Total': '26'}
-{'course_name': 'PHS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '8', 'AB': '1', 'Total': '9'}
-{'course_name': 'PHS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'AB': '3', 'BB': '2', 'Total': '15'}
-{'course_name': 'PHS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '2', 'BB': '2', 'II': '1', 'Total': '8'}
-{'course_name': 'PHS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '20', 'AB': '13', 'FR': '1', 'Total': '34'}
-{'course_name': 'IWE713', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '10', 'BB': '67', 'CC': '6', 'Total': '83'}
-{'course_name': 'IWE713', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'BB': '4', 'Total': '6'}
-{'course_name': 'SOM704', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '6', 'AU': '1', 'BB': '14', 'BC': '11', 'CC': '5', 'CD': '1', 'Total': '41'}
-{'course_name': 'SOM704', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '17', 'BB': '20', 'BC': '7', 'CC': '5', 'CD': '1', 'Total': '54'}
-{'course_name': 'SOM704', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '11', 'BB': '19', 'BC': '15', 'CC': '1', 'Total': '51'}
-{'course_name': 'DEP405', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '10', 'BB': '5', 'BC': '4', 'CC': '2', 'FF': '2', 'FR': '3', 'Total': '31'}
-{'course_name': 'DEP405', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'DD': '1', 'Total': '1'}
-{'course_name': 'DEP405', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '2', 'BB': '5', 'BC': '3', 'CC': '4', 'FR': '16', 'Total': '30'}
-{'course_name': 'SOM625', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'PP': '115', 'Total': '115'}
-{'course_name': 'SOM625', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'PP': '115', 'Total': '115'}
-{'course_name': 'SOM625', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'PP': '103', 'Total': '103'}
-{'course_name': 'SOM625', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for section A are', 'PP': '5', 'Total': '5'}
-{'course_name': 'SOM625', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for section N are', 'PP': '1', 'Total': '1'}
-{'course_name': 'DEP501', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'BB': '2', 'FF': '5', 'II': '1', 'Total': '9'}
-{'course_name': 'DEP501', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '1', 'II': '9', 'Total': '10'}
-{'course_name': 'DEP501', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '2', 'BB': '1', 'BC': '1', 'FF': '5', 'Total': '10'}
-{'course_name': 'DEP501', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '4', 'BB': '5', 'BC': '1', 'Total': '10'}
-{'course_name': 'GNR621', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '9', 'AB': '14', 'AU': '1', 'BB': '9', 'BC': '2', 'FR': '1', 'Total': '36'}
-{'course_name': 'GNR621', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '13', 'BB': '7', 'BC': '2', 'FF': '2', 'Total': '28'}
-{'course_name': 'GNR621', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '13', 'BB': '11', 'BC': '4', 'CD': '1', 'Total': '33'}
-{'course_name': 'GNR621', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '12', 'BB': '5', 'BC': '4', 'FR': '1', 'Total': '29'}
-{'course_name': 'MGT806', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '3', 'Total': '5'}
-{'course_name': 'MGT806', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AU': '1', 'BB': '1', 'Total': '3'}
-{'course_name': 'SOM635', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '5', 'BB': '16', 'BC': '8', 'CC': '4', 'CD': '3', 'DD': '1', 'Total': '40'}
-{'course_name': 'ESS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '5', 'BB': '1', 'II': '1', 'Total': '8'}
-{'course_name': 'ESS801', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '4', 'BB': '2', 'Total': '11'}
-{'course_name': 'ESS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '3', 'BB': '2', 'Total': '10'}
-{'course_name': 'ESS801', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '2', 'BB': '1', 'Total': '5'}
-{'course_name': 'ESS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '5', 'AB': '2', 'Total': '7'}
-{'course_name': 'ESS801', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '4', 'II': '2', 'Total': '7'}
-{'course_name': 'ESS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '4', 'BB': '2', 'BC': '1', 'FR': '1', 'Total': '10'}
-{'course_name': 'ESS801', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '5', 'Total': '8'}
-{'course_name': 'SOM620', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '2', 'AB': '14', 'BB': '21', 'BC': '11', 'Total': '48'}
-{'course_name': 'SOM620', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '3', 'AB': '5', 'BB': '17', 'BC': '1', 'Total': '26'}
-{'course_name': 'SOM620', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '14', 'BB': '19', 'BC': '25', 'II': '1', 'Total': '60'}
-{'course_name': 'SOM794', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'Total': '1'}
-{'course_name': 'MNG802', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '1', 'BB': '2', 'BC': '3', 'CC': '1', 'CD': '1', 'FR': '1', 'Total': '9'}
-{'course_name': 'MNG802', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '9', 'BB': '11', 'BC': '7', 'CC': '7', 'CD': '4', 'DD': '1', 'Total': '43'}
-{'course_name': 'MNG802', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '8', 'AU': '1', 'BB': '6', 'BC': '5', 'CC': '2', 'FR': '1', 'Total': '30'}
-{'course_name': 'MNG802', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '7', 'AB': '9', 'BB': '14', 'BC': '7', 'CC': '5', 'CD': '1', 'Total': '43'}
-{'course_name': 'ENT101', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '72', 'AB': '73', 'AP': '4', 'BB': '39', 'BC': '4', 'CC': '2', 'DD': '2', 'II': '1', 'Total': '197'}
-{'course_name': 'ENT101', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '66', 'AB': '80', 'AP': '4', 'BB': '27', 'BC': '13', 'CC': '6', 'CD': '3', 'DD': '1', 'Total': '200'}
-{'course_name': 'SCS801', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'FF': '1', 'Total': '1'}
-{'course_name': 'SCS801', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '3', 'Total': '3'}
-{'course_name': 'SCS801', 'year': '2021', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'FR': '1', 'Total': '2'}
-{'course_name': 'SCS801', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '1', 'Total': '1'}
-{'course_name': 'SCS801', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AB': '3', 'Total': '7'}
-{'course_name': 'SCS801', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'AB': '2', 'Total': '2'}
-{'course_name': 'CSS802', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AB': '1', 'Total': '1'}
-{'course_name': 'CSS802', 'year': '2020', 'semester': 1, 'title': 'Total Grades Given for are', 'BB': '1', 'Total': '1'}
-{'course_name': 'CSS802', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'FR': '2', 'Total': '2'}
-{'course_name': 'CSS802', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'FR': '1', 'Total': '1'}
-{'course_name': 'GNR642', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '4', 'AU': '2', 'Total': '6'}
-{'course_name': 'GNR642', 'year': '2022', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '4', 'Total': '4'}
-{'course_name': 'GNR642', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AB': '4', 'AU': '2', 'BB': '3', 'BC': '1', 'CD': '1', 'Total': '11'}
-{'course_name': 'GNR642', 'year': '2019', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '1', 'AB': '7', 'AU': '1', 'BB': '3', 'Total': '12'}
-{'course_name': 'SOM899', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'PP': '8', 'Total': '8'}
-{'course_name': 'SOM899', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'NP': '2', 'PP': '40', 'Total': '42'}
-{'course_name': 'GNR615', 'year': '2022', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '19', 'AB': '11', 'AU': '2', 'Total': '32'}
-{'course_name': 'GNR615', 'year': '2021', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '11', 'AB': '7', 'AU': '2', 'BB': '3', 'BC': '1', 'FR': '2', 'Total': '26'}
-{'course_name': 'GNR615', 'year': '2020', 'semester': 2, 'title': 'Total Grades Given for are', 'AA': '29', 'AB': '1', 'AU': '1', 'BB': '2', 'Total': '33'}
-{'course_name': 'GNR615', 'year': '2019', 'semester': 1, 'title': 'Total Grades Given for are', 'AA': '13', 'AB': '9', 'AU': '4', 'BB': '4', 'FF': '1', 'Total': '31'}
+{"course_name": "GNR805", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AU": "1", "II": "1", "Total": "3"}
+{"course_name": "GNR805", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AU": "1", "CC": "2", "Total": "7"}
+{"course_name": "SOM663", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "12", "AU": "1", "BB": "7", "BC": "6", "Total": "32"}
+{"course_name": "SOM663", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "7", "BB": "18", "BC": "3", "FR": "1", "Total": "36"}
+{"course_name": "SOM663", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "18", "BB": "19", "BC": "10", "Total": "55"}
+{"course_name": "SOM651", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AB": "2", "BB": "1", "BC": "5", "CC": "4", "Total": "12"}
+{"course_name": "SOM651", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AB": "6", "Total": "6"}
+{"course_name": "SOM703", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "10", "BB": "9", "BC": "6", "CC": "5", "Total": "33"}
+{"course_name": "SOM703", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "3", "BB": "4", "BC": "4", "CC": "1", "FR": "1", "Total": "15"}
+{"course_name": "SOM703", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "5", "BB": "17", "BC": "7", "CC": "3", "CD": "3", "DD": "1", "Total": "40"}
+{"course_name": "PSS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "4", "BB": "4", "BC": "1", "Total": "11"}
+{"course_name": "PSS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "8", "BB": "7", "CC": "1", "II": "1", "Total": "23"}
+{"course_name": "PSS801", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AB": "1", "Total": "1"}
+{"course_name": "PSS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "7", "BB": "1", "Total": "10"}
+{"course_name": "SOM609", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "13", "AB": "44", "BB": "44", "BC": "9", "FF": "6", "Total": "116"}
+{"course_name": "SOM609", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "19", "AB": "32", "BB": "46", "BC": "20", "Total": "117"}
+{"course_name": "SOM609", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "25", "BB": "54", "BC": "26", "Total": "115"}
+{"course_name": "SOM609", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "11", "AB": "36", "BB": "44", "BC": "17", "CC": "2", "Total": "110"}
+{"course_name": "DEP301", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "24", "AB": "8", "CC": "3", "Total": "35"}
+{"course_name": "DEP301", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "11", "AB": "9", "DD": "3", "FR": "9", "Total": "32"}
+{"course_name": "DEP301", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "20", "BB": "5", "Total": "34"}
+{"course_name": "DEP301", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "9", "BB": "7", "FR": "3", "Total": "27"}
+{"course_name": "SOM654", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "4", "BB": "3", "BC": "3", "CC": "4", "Total": "16"}
+{"course_name": "SOM654", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AB": "8", "BB": "6", "BC": "4", "CC": "1", "Total": "19"}
+{"course_name": "SOM654", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "3", "BB": "4", "BC": "1", "CD": "1", "Total": "10"}
+{"course_name": "GNR617", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "14", "AU": "1", "BB": "5", "Total": "30"}
+{"course_name": "GNR617", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "7", "BB": "5", "BC": "1", "FR": "2", "Total": "24"}
+{"course_name": "GNR617", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "5", "AB": "10", "BB": "7", "BC": "7", "CC": "1", "FR": "1", "Total": "31"}
+{"course_name": "GNR617", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "14", "AB": "10", "BC": "1", "FR": "1", "Total": "26"}
+{"course_name": "MNG803", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "3", "BB": "2", "BC": "2", "Total": "8"}
+{"course_name": "MNG803", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "4", "BB": "5", "BC": "5", "CC": "5", "CD": "4", "DD": "4", "FF": "7", "FR": "7", "Total": "42"}
+{"course_name": "MNG803", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "BB": "1", "BC": "2", "CC": "1", "CD": "1", "DD": "1", "Total": "6"}
+{"course_name": "MNG803", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "4", "Total": "6"}
+{"course_name": "MNG803", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "1", "AU": "1", "BB": "1", "Total": "4"}
+{"course_name": "MGT805", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "AB": "4", "BB": "2", "Total": "9"}
+{"course_name": "MGT805", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "AB": "10", "BB": "9", "BC": "1", "Total": "22"}
+{"course_name": "MGT805", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "6", "AB": "14", "AU": "1", "BB": "3", "BC": "1", "Total": "25"}
+{"course_name": "MGT805", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AA": "5", "AB": "2", "Total": "7"}
+{"course_name": "CMS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "2", "FF": "2", "Total": "5"}
+{"course_name": "CMS801", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AB": "2", "II": "1", "Total": "3"}
+{"course_name": "CMS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "3", "BB": "1", "II": "1", "Total": "8"}
+{"course_name": "CMS801", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "AB": "1", "Total": "3"}
+{"course_name": "CMS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "1", "Total": "2"}
+{"course_name": "CMS801", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "5", "AB": "6", "BB": "1", "FR": "1", "II": "2", "Total": "15"}
+{"course_name": "CMS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "5", "BB": "3", "BC": "1", "Total": "10"}
+{"course_name": "CMS801", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "AB": "2", "CC": "1", "Total": "5"}
+{"course_name": "SOM603", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "35", "BB": "41", "BC": "14", "CC": "9", "CD": "4", "DD": "2", "FR": "5", "Total": "120"}
+{"course_name": "SOM603", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "16", "AU": "2", "BB": "28", "BC": "31", "CC": "28", "CD": "12", "DD": "2", "Total": "122"}
+{"course_name": "SOM603", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "28", "AB": "55", "BB": "21", "BC": "8", "CC": "2", "CD": "1", "Total": "115"}
+{"course_name": "SOM603", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "11", "AB": "29", "BB": "27", "BC": "25", "CC": "10", "CD": "6", "DD": "3", "Total": "111"}
+{"course_name": "SOM611", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "17", "BB": "23", "BC": "20", "CC": "30", "CD": "12", "DD": "1", "FR": "6", "Total": "117"}
+{"course_name": "SOM611", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "11", "BB": "33", "BC": "39", "CC": "20", "CD": "6", "DD": "1", "Total": "119"}
+{"course_name": "SOM611", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "12", "BB": "27", "BC": "35", "CC": "29", "CD": "4", "DD": "2", "Total": "116"}
+{"course_name": "SOM611", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "22", "AU": "1", "BB": "48", "BC": "27", "CC": "2", "CD": "1", "Total": "111"}
+{"course_name": "SOM601", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "14", "AB": "38", "BB": "23", "BC": "25", "CC": "13", "FF": "5", "Total": "118"}
+{"course_name": "SOM601", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "58", "BB": "41", "BC": "8", "Total": "117"}
+{"course_name": "SOM601", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "13", "AB": "35", "BB": "35", "BC": "32", "Total": "115"}
+{"course_name": "SOM601", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "15", "BB": "31", "BC": "42", "CC": "21", "CD": "4", "Total": "115"}
+{"course_name": "SOM690", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "22", "BB": "18", "BC": "10", "CC": "3", "Total": "60"}
+{"course_name": "SOM690", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "21", "BB": "32", "BC": "16", "Total": "75"}
+{"course_name": "SOM690", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "13", "AB": "30", "BB": "15", "BC": "3", "CC": "1", "Total": "62"}
+{"course_name": "MMS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "9", "BB": "2", "II": "1", "Total": "17"}
+{"course_name": "MMS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "14", "AB": "5", "BB": "3", "Total": "22"}
+{"course_name": "MMS801", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "4", "AB": "6", "BB": "2", "II": "1", "Total": "13"}
+{"course_name": "MMS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "7", "BB": "2", "II": "1", "Total": "17"}
+{"course_name": "MMS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "13", "BB": "2", "Total": "24"}
+{"course_name": "ENT609", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "9", "BB": "2", "FF": "2", "II": "2", "Total": "19"}
+{"course_name": "ENT609", "year": "2022", "semester": 1, "title": "Total Grades Given for section M are", "AA": "2", "AB": "5", "BB": "3", "BC": "1", "FF": "2", "Total": "13"}
+{"course_name": "ENT609", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "13", "AU": "1", "BB": "10", "BC": "6", "Total": "38"}
+{"course_name": "ENT609", "year": "2021", "semester": 1, "title": "Total Grades Given for section M are", "AA": "1", "AB": "3", "BB": "6", "BC": "2", "Total": "12"}
+{"course_name": "DEP102", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "PP": "39", "Total": "39"}
+{"course_name": "DEP102", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AU": "33", "Total": "33"}
+{"course_name": "CHS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "7", "BB": "2", "Total": "15"}
+{"course_name": "CHS801", "year": "2022", "semester": 1, "title": "Total Grades Given for section CH are", "BB": "1", "Total": "1"}
+{"course_name": "CHS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "10", "Total": "17"}
+{"course_name": "CHS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "5", "BB": "6", "BC": "3", "CC": "1", "Total": "20"}
+{"course_name": "CHS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "7", "BB": "2", "Total": "18"}
+{"course_name": "SOM637", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "16", "AU": "1", "BB": "20", "BC": "15", "FR": "1", "Total": "62"}
+{"course_name": "SOM637", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "13", "BB": "7", "Total": "30"}
+{"course_name": "SOM709", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "13", "BB": "17", "BC": "12", "CC": "4", "CD": "2", "DD": "3", "Total": "61"}
+{"course_name": "SOM709", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "12", "AB": "19", "AP": "2", "AU": "1", "BB": "51", "BC": "17", "Total": "102"}
+{"course_name": "SOM634", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "2", "BB": "4", "BC": "1", "CC": "2", "Total": "10"}
+{"course_name": "SOM634", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "3", "BB": "6", "BC": "8", "CC": "2", "CD": "1", "Total": "22"}
+{"course_name": "SOM634", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "AB": "5", "BB": "12", "BC": "19", "CC": "11", "CD": "2", "FR": "1", "Total": "52"}
+{"course_name": "ENT606", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "34", "AB": "99", "AU": "2", "BB": "50", "BC": "21", "CC": "5", "DD": "6", "FF": "2", "Total": "219"}
+{"course_name": "ENT606", "year": "2022", "semester": 1, "title": "Total Grades Given for section M are", "AA": "8", "AB": "8", "BB": "8", "BC": "6", "CC": "2", "DD": "1", "Total": "33"}
+{"course_name": "ENT606", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "124", "AB": "22", "BB": "19", "BC": "6", "CC": "14", "DD": "4", "FR": "8", "Total": "197"}
+{"course_name": "ENT606", "year": "2021", "semester": 1, "title": "Total Grades Given for section M are", "AA": "23", "AB": "3", "BB": "5", "CC": "2", "DD": "1", "FR": "1", "Total": "35"}
+{"course_name": "ENT606", "year": "2021", "semester": 1, "title": "Total Grades Given for section S2 are", "II": "1", "Total": "1"}
+{"course_name": "ENT606", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "23", "AB": "3", "BB": "5", "BC": "1", "CC": "1", "FF": "3", "Total": "36"}
+{"course_name": "GNR627", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "4", "AU": "6", "BB": "3", "Total": "20"}
+{"course_name": "GNR627", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "3", "AU": "7", "BB": "3", "BC": "1", "Total": "22"}
+{"course_name": "GNR627", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "5", "AU": "6", "BB": "1", "Total": "16"}
+{"course_name": "GNR627", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "5", "AU": "7", "BB": "1", "Total": "15"}
+{"course_name": "DHS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "Total": "5"}
+{"course_name": "DHS801", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "AB": "1", "Total": "2"}
+{"course_name": "IES801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "2", "BB": "2", "BC": "1", "Total": "6"}
+{"course_name": "IES801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "FR": "1", "Total": "4"}
+{"course_name": "IES801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "3", "Total": "6"}
+{"course_name": "IES801", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "BB": "1", "Total": "2"}
+{"course_name": "MGT801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "1", "BB": "6", "Total": "8"}
+{"course_name": "MGT801", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "AB": "4", "BB": "10", "BC": "5", "CC": "1", "Total": "22"}
+{"course_name": "MGT801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "1", "BB": "3", "Total": "5"}
+{"course_name": "MGT801", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "11", "AB": "9", "BB": "3", "FR": "1", "Total": "24"}
+{"course_name": "SOM622", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "22", "BB": "24", "BC": "8", "CC": "2", "Total": "62"}
+{"course_name": "SOM622", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "10", "AU": "1", "BB": "25", "BC": "14", "CC": "2", "CD": "3", "Total": "61"}
+{"course_name": "SOM608", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "12", "AB": "27", "BB": "45", "BC": "20", "CC": "5", "CD": "1", "FR": "2", "Total": "112"}
+{"course_name": "SOM608", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "11", "AB": "18", "BB": "59", "BC": "25", "CC": "2", "Total": "115"}
+{"course_name": "SOM608", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "13", "AB": "22", "BB": "53", "BC": "20", "CC": "6", "CD": "1", "Total": "115"}
+{"course_name": "SOM608", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "15", "BB": "41", "BC": "22", "CC": "13", "CD": "8", "DD": "2", "Total": "110"}
+{"course_name": "GNR653", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "3", "AU": "1", "II": "1", "Total": "7"}
+{"course_name": "GNR653", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AB": "6", "AU": "2", "BB": "4", "BC": "1", "Total": "13"}
+{"course_name": "GNR653", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "2", "AU": "1", "BC": "1", "Total": "6"}
+{"course_name": "GNR653", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "3", "AU": "3", "Total": "7"}
+{"course_name": "SOM604", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "15", "BB": "43", "BC": "37", "CC": "7", "CD": "3", "DD": "1", "FR": "5", "Total": "116"}
+{"course_name": "SOM604", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "29", "BB": "52", "BC": "22", "CC": "6", "Total": "119"}
+{"course_name": "SOM604", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "14", "BB": "50", "BC": "32", "CC": "11", "CD": "5", "DD": "1", "Total": "115"}
+{"course_name": "SOM604", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "27", "BB": "44", "BC": "28", "CC": "8", "CD": "1", "Total": "110"}
+{"course_name": "CMS802", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "AB": "1", "Total": "2"}
+{"course_name": "SOM705", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "18", "BB": "15", "BC": "20", "CC": "3", "CD": "1", "Total": "60"}
+{"course_name": "SOM705", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "37", "AB": "40", "BB": "16", "BC": "1", "Total": "94"}
+{"course_name": "SOM705", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "26", "AB": "29", "BB": "4", "BC": "1", "Total": "60"}
+{"course_name": "CSS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "2", "Total": "6"}
+{"course_name": "CSS801", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "7", "BB": "1", "BC": "1", "II": "1", "Total": "10"}
+{"course_name": "CSS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "4", "Total": "11"}
+{"course_name": "CSS801", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "Total": "3"}
+{"course_name": "CSS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "2", "DD": "1", "FR": "1", "Total": "10"}
+{"course_name": "CSS801", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "Total": "1"}
+{"course_name": "CSS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "1", "CC": "1", "Total": "4"}
+{"course_name": "CSS801", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AA": "4", "AB": "1", "Total": "5"}
+{"course_name": "USS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "BB": "1", "FF": "1", "Total": "4"}
+{"course_name": "USS801", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "FR": "1", "Total": "3"}
+{"course_name": "USS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "Total": "1"}
+{"course_name": "USS801", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "AB": "2", "BB": "1", "Total": "4"}
+{"course_name": "USS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "1", "II": "1", "Total": "3"}
+{"course_name": "USS801", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "AB": "1", "Total": "4"}
+{"course_name": "USS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AB": "1", "BC": "1", "FR": "2", "Total": "4"}
+{"course_name": "SOM653", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "3", "BB": "5", "BC": "2", "CC": "2", "CD": "1", "Total": "14"}
+{"course_name": "SOM653", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "5", "BB": "9", "BC": "4", "CC": "2", "CD": "1", "Total": "22"}
+{"course_name": "SOM653", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "6", "AU": "2", "BB": "7", "BC": "7", "CC": "1", "Total": "25"}
+{"course_name": "IWE709", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "12", "BB": "30", "Total": "42"}
+{"course_name": "IWE709", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "11", "BB": "30", "Total": "41"}
+{"course_name": "IWE709", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "Total": "1"}
+{"course_name": "IWE709", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "BB": "4", "Total": "6"}
+{"course_name": "ENT602", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "4", "AB": "8", "AU": "1", "BB": "8", "Total": "21"}
+{"course_name": "ENT602", "year": "2022", "semester": 2, "title": "Total Grades Given for section M are", "AA": "7", "AB": "3", "BB": "6", "BC": "4", "CC": "3", "CD": "2", "Total": "25"}
+{"course_name": "ENT602", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "8", "AB": "9", "AU": "4", "BB": "5", "BC": "7", "CC": "2", "FR": "1", "Total": "36"}
+{"course_name": "ENT602", "year": "2021", "semester": 2, "title": "Total Grades Given for section M are", "AA": "1", "AB": "1", "BB": "3", "BC": "2", "CC": "1", "Total": "8"}
+{"course_name": "ENT602", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "4", "AB": "2", "AU": "2", "BB": "5", "BC": "1", "CC": "1", "Total": "15"}
+{"course_name": "ENT602", "year": "2020", "semester": 2, "title": "Total Grades Given for section M are", "CC": "1", "Total": "1"}
+{"course_name": "ENT602", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AA": "4", "AB": "1", "BB": "7", "PP": "1", "Total": "13"}
+{"course_name": "SOM698", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "16", "AU": "1", "BB": "18", "BC": "18", "CC": "8", "CD": "1", "Total": "64"}
+{"course_name": "SOM698", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AB": "13", "BB": "10", "BC": "8", "CC": "5", "Total": "36"}
+{"course_name": "SOM698", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "AB": "6", "AU": "1", "BB": "6", "BC": "9", "CC": "5", "CD": "2", "Total": "32"}
+{"course_name": "ENT603", "year": "2022", "semester": 1, "title": "Total Grades Given for section M are", "AA": "25", "AB": "26", "BB": "11", "BC": "2", "CC": "3", "Total": "67"}
+{"course_name": "ENT603", "year": "2022", "semester": 1, "title": "Total Grades Given for section S1 are", "AA": "29", "AB": "17", "BB": "11", "BC": "1", "CC": "1", "Total": "59"}
+{"course_name": "ENT603", "year": "2022", "semester": 1, "title": "Total Grades Given for section S2 are", "AA": "22", "AB": "26", "AU": "1", "BB": "5", "BC": "2", "Total": "56"}
+{"course_name": "ENT603", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "27", "AB": "66", "AP": "2", "AU": "1", "BB": "32", "BC": "15", "CC": "2", "CD": "1", "Total": "146"}
+{"course_name": "ENT603", "year": "2021", "semester": 1, "title": "Total Grades Given for section M are", "AA": "10", "AB": "19", "BB": "7", "BC": "2", "CC": "1", "Total": "39"}
+{"course_name": "ENT603", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "6", "AU": "1", "BB": "10", "BC": "5", "CC": "1", "FR": "1", "Total": "31"}
+{"course_name": "ENT603", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "4", "AU": "2", "BB": "7", "BC": "2", "CC": "1", "CD": "1", "Total": "20"}
+{"course_name": "SOM793", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AB": "2", "Total": "2"}
+{"course_name": "SOM606", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "16", "BB": "31", "BC": "36", "CC": "11", "CD": "7", "DD": "9", "FR": "6", "Total": "120"}
+{"course_name": "SOM606", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "22", "BB": "35", "BC": "47", "CC": "6", "CD": "1", "DD": "1", "Total": "118"}
+{"course_name": "SOM606", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "15", "BB": "27", "BC": "29", "CC": "35", "CD": "2", "Total": "115"}
+{"course_name": "SOM606", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "7", "BB": "32", "BC": "49", "CC": "8", "CD": "6", "DD": "5", "Total": "110"}
+{"course_name": "MES801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "5", "BB": "3", "CC": "1", "FR": "2", "II": "1", "Total": "22"}
+{"course_name": "MES801", "year": "2022", "semester": 1, "title": "Total Grades Given for section S3 are", "Total": "22"}
+{"course_name": "MES801", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "14", "AB": "6", "BB": "1", "FR": "1", "II": "1", "Total": "23"}
+{"course_name": "MES801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "15", "AB": "5", "BB": "2", "FR": "3", "Total": "25"}
+{"course_name": "MES801", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "8", "AB": "14", "BB": "2", "II": "7", "Total": "31"}
+{"course_name": "MES801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "4", "BB": "4", "FR": "1", "Total": "15"}
+{"course_name": "MES801", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "11", "AB": "8", "BB": "2", "Total": "21"}
+{"course_name": "MES801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "5", "BB": "1", "Total": "15"}
+{"course_name": "MES801", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AA": "17", "AB": "15", "BB": "4", "BC": "1", "Total": "37"}
+{"course_name": "SOM661", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "6", "BB": "27", "BC": "20", "CC": "2", "CD": "1", "Total": "59"}
+{"course_name": "SOM661", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "11", "BB": "10", "BC": "1", "Total": "24"}
+{"course_name": "SOM661", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "13", "BB": "19", "BC": "6", "CC": "1", "Total": "44"}
+{"course_name": "CES801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "21", "AB": "12", "BB": "2", "CC": "1", "II": "1", "Total": "37"}
+{"course_name": "CES801", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "6", "AB": "5", "BB": "2", "BC": "1", "Total": "14"}
+{"course_name": "CES801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "20", "AB": "3", "BB": "7", "BC": "1", "CC": "1", "II": "1", "Total": "33"}
+{"course_name": "CES801", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "AB": "5", "BB": "3", "II": "1", "Total": "12"}
+{"course_name": "CES801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "17", "AB": "2", "BB": "1", "Total": "20"}
+{"course_name": "CES801", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "11", "AB": "3", "BB": "1", "II": "1", "Total": "16"}
+{"course_name": "CES801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "16", "AB": "15", "BB": "2", "BC": "1", "Total": "34"}
+{"course_name": "CES801", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AA": "8", "AB": "4", "Total": "12"}
+{"course_name": "SOM671", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "8", "BB": "3", "BC": "4", "FF": "5", "Total": "23"}
+{"course_name": "SOM671", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "1", "AU": "2", "CC": "1", "CD": "1", "Total": "7"}
+{"course_name": "SOM624", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "3", "BB": "8", "BC": "13", "CC": "9", "CD": "5", "Total": "41"}
+{"course_name": "SOM624", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "4", "AU": "1", "BB": "15", "BC": "10", "CC": "7", "CD": "3", "Total": "44"}
+{"course_name": "DEP702", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "10", "BB": "18", "BC": "5", "FF": "34", "FR": "1", "Total": "75"}
+{"course_name": "DEP702", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "12", "AB": "15", "BB": "13", "BC": "4", "FR": "1", "II": "10", "Total": "55"}
+{"course_name": "DEP702", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "FF": "1", "FR": "1", "Total": "2"}
+{"course_name": "DEP702", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "12", "BB": "12", "BC": "4", "FF": "30", "Total": "64"}
+{"course_name": "DEP702", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "BB": "1", "BC": "1", "Total": "2"}
+{"course_name": "DEP702", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "12", "BB": "13", "BC": "4", "CC": "1", "FF": "22", "Total": "61"}
+{"course_name": "SOM610", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "11", "AB": "28", "BB": "29", "BC": "22", "CC": "20", "FR": "1", "Total": "111"}
+{"course_name": "SOM610", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "14", "BB": "52", "BC": "33", "CC": "8", "Total": "117"}
+{"course_name": "SOM610", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "BB": "12", "BC": "25", "CC": "30", "CD": "32", "DD": "16", "Total": "115"}
+{"course_name": "SOM610", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "12", "AB": "21", "BB": "48", "BC": "22", "CC": "7", "Total": "110"}
+{"course_name": "SOM607", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AB": "11", "BB": "19", "BC": "18", "CC": "14", "CD": "23", "DD": "19", "FF": "6", "FR": "2", "Total": "112"}
+{"course_name": "SOM607", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "23", "BB": "56", "BC": "27", "Total": "114"}
+{"course_name": "SOM607", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "15", "BB": "32", "BC": "32", "CC": "17", "CD": "17", "Total": "115"}
+{"course_name": "SOM607", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "12", "BB": "20", "BC": "33", "CC": "23", "CD": "14", "DD": "1", "Total": "110"}
+{"course_name": "GNR605", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "13", "AU": "1", "BB": "12", "BC": "1", "Total": "32"}
+{"course_name": "GNR605", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "6", "AU": "3", "BB": "5", "BC": "2", "FR": "2", "Total": "27"}
+{"course_name": "GNR605", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "11", "AU": "4", "BB": "9", "BC": "3", "CC": "1", "Total": "36"}
+{"course_name": "GNR605", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "11", "BB": "7", "BC": "2", "FF": "1", "Total": "29"}
+{"course_name": "GNR603", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "13", "AB": "10", "BB": "9", "BC": "5", "Total": "37"}
+{"course_name": "GNR603", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "11", "BB": "8", "BC": "3", "FR": "2", "Total": "32"}
+{"course_name": "GNR603", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "9", "AU": "1", "BB": "12", "BC": "8", "Total": "40"}
+{"course_name": "GNR603", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "9", "BB": "10", "BC": "4", "DD": "1", "Total": "32"}
+{"course_name": "SOM655", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AB": "5", "BB": "4", "BC": "12", "CC": "8", "CD": "1", "Total": "30"}
+{"course_name": "SOM655", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "4", "BB": "4", "BC": "10", "CC": "2", "CD": "1", "Total": "23"}
+{"course_name": "SOM655", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "3", "AU": "1", "BB": "9", "BC": "8", "Total": "23"}
+{"course_name": "SOM801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "4", "BB": "3", "CC": "1", "Total": "12"}
+{"course_name": "SOM710", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AB": "17", "BB": "32", "BC": "13", "Total": "62"}
+{"course_name": "SOM710", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "12", "AB": "23", "BB": "35", "BC": "7", "Total": "77"}
+{"course_name": "GNR623", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "1", "AU": "1", "BB": "1", "BC": "2", "FF": "2", "Total": "10"}
+{"course_name": "GNR623", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "3", "BB": "2", "BC": "1", "CC": "1", "Total": "11"}
+{"course_name": "GNR623", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "7", "BB": "2", "BC": "1", "FR": "1", "Total": "19"}
+{"course_name": "GNR623", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "3", "BB": "2", "CC": "1", "Total": "13"}
+{"course_name": "BBS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "4", "BB": "3", "FF": "1", "II": "1", "Total": "18"}
+{"course_name": "BBS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "11", "BB": "1", "Total": "18"}
+{"course_name": "BBS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "7", "BB": "2", "Total": "12"}
+{"course_name": "BBS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "16", "AB": "5", "FR": "2", "Total": "23"}
+{"course_name": "GNR607", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "13", "AB": "11", "AU": "1", "BB": "17", "BC": "2", "CC": "5", "CD": "2", "DD": "2", "FF": "1", "Total": "54"}
+{"course_name": "GNR607", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "6", "BB": "3", "BC": "5", "CC": "1", "FF": "2", "Total": "27"}
+{"course_name": "GNR607", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "9", "BB": "12", "BC": "5", "CC": "4", "DD": "4", "FF": "1", "II": "1", "Total": "44"}
+{"course_name": "GNR607", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "6", "BB": "9", "BC": "6", "CC": "4", "FF": "2", "Total": "36"}
+{"course_name": "IWE716", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "BB": "33", "Total": "42"}
+{"course_name": "IWE716", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "BB": "30", "CC": "3", "Total": "41"}
+{"course_name": "IWE716", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "BB": "4", "Total": "6"}
+{"course_name": "IWE706", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "21", "BB": "63", "Total": "84"}
+{"course_name": "IWE706", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "BB": "3", "Total": "6"}
+{"course_name": "PSS803", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "9", "BB": "6", "BC": "1", "Total": "19"}
+{"course_name": "PSS803", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "1", "Total": "2"}
+{"course_name": "PSS803", "year": "2021", "semester": 1, "title": "Total Grades Given for section 0 are", "AB": "1", "Total": "1"}
+{"course_name": "PSS803", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "1", "II": "1", "Total": "4"}
+{"course_name": "PSS803", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "II": "2", "Total": "2"}
+{"course_name": "PSS803", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "3", "BB": "3", "BC": "1", "Total": "10"}
+{"course_name": "GSS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "4", "BC": "1", "Total": "10"}
+{"course_name": "GSS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "7", "BB": "1", "II": "1", "Total": "16"}
+{"course_name": "GSS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "5", "BB": "1", "BC": "1", "Total": "10"}
+{"course_name": "GSS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "4", "BB": "2", "BC": "1", "Total": "16"}
+{"course_name": "IWE708", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "BB": "33", "CC": "1", "Total": "43"}
+{"course_name": "IWE708", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "BB": "34", "Total": "41"}
+{"course_name": "IWE708", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "BB": "4", "Total": "6"}
+{"course_name": "SOM605", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "10", "AU": "1", "BB": "19", "BC": "24", "CC": "23", "CD": "14", "DD": "17", "FF": "6", "II": "5", "Total": "123"}
+{"course_name": "SOM605", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "12", "BB": "29", "BC": "40", "CC": "16", "CD": "9", "DD": "1", "Total": "114"}
+{"course_name": "SOM605", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "14", "AU": "1", "BB": "26", "BC": "48", "CC": "14", "CD": "8", "Total": "116"}
+{"course_name": "SOM605", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "9", "BB": "19", "BC": "22", "CC": "30", "CD": "18", "DD": "6", "FF": "2", "Total": "111"}
+{"course_name": "SOM650", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "2", "BB": "6", "BC": "6", "CC": "9", "CD": "5", "Total": "30"}
+{"course_name": "SOM650", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "19", "BB": "13", "BC": "2", "CC": "11", "CD": "1", "Total": "54"}
+{"course_name": "SOM650", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "11", "AB": "29", "AU": "10", "BB": "15", "BC": "3", "Total": "68"}
+{"course_name": "HSS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "7", "BB": "3", "FR": "1", "II": "3", "Total": "17"}
+{"course_name": "HSS801", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "BB": "1", "Total": "1"}
+{"course_name": "HSS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "13", "BB": "3", "BC": "1", "Total": "23"}
+{"course_name": "HSS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "10", "BB": "2", "II": "1", "Total": "23"}
+{"course_name": "HSS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "6", "AB": "10", "BB": "5", "Total": "21"}
+{"course_name": "SOM602", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "15", "BB": "37", "BC": "35", "CC": "18", "CD": "3", "FR": "5", "Total": "116"}
+{"course_name": "SOM602", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "26", "BB": "52", "BC": "28", "CC": "3", "Total": "114"}
+{"course_name": "SOM602", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "19", "AB": "51", "BB": "25", "BC": "19", "CC": "1", "Total": "115"}
+{"course_name": "SOM602", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "20", "BB": "41", "BC": "36", "CC": "4", "CD": "1", "Total": "110"}
+{"course_name": "SOM642", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "14", "AB": "18", "AU": "21", "BB": "22", "BC": "4", "CC": "1", "CD": "1", "Total": "81"}
+{"course_name": "SOM642", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "12", "AU": "6", "BB": "30", "BC": "16", "CC": "3", "Total": "76"}
+{"course_name": "SOM642", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "5", "AB": "9", "AU": "15", "BB": "18", "BC": "7", "Total": "54"}
+{"course_name": "SOM697", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "15", "BB": "9", "BC": "5", "CC": "1", "Total": "34"}
+{"course_name": "SOM697", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "21", "BB": "38", "BC": "10", "CC": "4", "Total": "80"}
+{"course_name": "SOM697", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "13", "BB": "27", "BC": "10", "CC": "3", "Total": "57"}
+{"course_name": "GNR899", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "PP": "7", "Total": "7"}
+{"course_name": "GNR899", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "NP": "7", "PP": "31", "Total": "38"}
+{"course_name": "GNR899", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "PP": "30", "Total": "30"}
+{"course_name": "GNR619", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "11", "AB": "13", "BB": "14", "BC": "11", "CC": "8", "CD": "5", "Total": "62"}
+{"course_name": "GNR619", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "10", "BB": "6", "BC": "1", "DD": "2", "FR": "2", "Total": "29"}
+{"course_name": "GNR619", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "8", "AU": "1", "BB": "10", "BC": "5", "CC": "1", "Total": "32"}
+{"course_name": "GNR619", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "10", "BB": "6", "BC": "2", "DD": "1", "Total": "26"}
+{"course_name": "PHS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "8", "AB": "1", "Total": "9"}
+{"course_name": "PHS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "AB": "3", "BB": "2", "Total": "15"}
+{"course_name": "PHS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "2", "BB": "2", "II": "1", "Total": "8"}
+{"course_name": "PHS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "20", "AB": "13", "FR": "1", "Total": "34"}
+{"course_name": "IWE713", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "10", "BB": "67", "CC": "6", "Total": "83"}
+{"course_name": "IWE713", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "BB": "4", "Total": "6"}
+{"course_name": "SOM704", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "AB": "6", "AU": "1", "BB": "14", "BC": "11", "CC": "5", "CD": "1", "Total": "41"}
+{"course_name": "SOM704", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "17", "BB": "20", "BC": "7", "CC": "5", "CD": "1", "Total": "54"}
+{"course_name": "SOM704", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "11", "BB": "19", "BC": "15", "CC": "1", "Total": "51"}
+{"course_name": "DEP405", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "10", "BB": "5", "BC": "4", "CC": "2", "FF": "2", "FR": "3", "Total": "31"}
+{"course_name": "DEP405", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "DD": "1", "Total": "1"}
+{"course_name": "DEP405", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AB": "2", "BB": "5", "BC": "3", "CC": "4", "FR": "16", "Total": "30"}
+{"course_name": "SOM625", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "PP": "115", "Total": "115"}
+{"course_name": "SOM625", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "PP": "115", "Total": "115"}
+{"course_name": "SOM625", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "PP": "103", "Total": "103"}
+{"course_name": "SOM625", "year": "2020", "semester": 1, "title": "Total Grades Given for section A are", "PP": "5", "Total": "5"}
+{"course_name": "SOM625", "year": "2020", "semester": 1, "title": "Total Grades Given for section N are", "PP": "1", "Total": "1"}
+{"course_name": "DEP501", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "BB": "2", "FF": "5", "II": "1", "Total": "9"}
+{"course_name": "DEP501", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AB": "1", "II": "9", "Total": "10"}
+{"course_name": "DEP501", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "2", "BB": "1", "BC": "1", "FF": "5", "Total": "10"}
+{"course_name": "DEP501", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AB": "4", "BB": "5", "BC": "1", "Total": "10"}
+{"course_name": "GNR621", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "9", "AB": "14", "AU": "1", "BB": "9", "BC": "2", "FR": "1", "Total": "36"}
+{"course_name": "GNR621", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "13", "BB": "7", "BC": "2", "FF": "2", "Total": "28"}
+{"course_name": "GNR621", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "13", "BB": "11", "BC": "4", "CD": "1", "Total": "33"}
+{"course_name": "GNR621", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "12", "BB": "5", "BC": "4", "FR": "1", "Total": "29"}
+{"course_name": "MGT806", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "AB": "3", "Total": "5"}
+{"course_name": "MGT806", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AU": "1", "BB": "1", "Total": "3"}
+{"course_name": "SOM635", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "AB": "5", "BB": "16", "BC": "8", "CC": "4", "CD": "3", "DD": "1", "Total": "40"}
+{"course_name": "ESS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "1", "AB": "5", "BB": "1", "II": "1", "Total": "8"}
+{"course_name": "ESS801", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "5", "AB": "4", "BB": "2", "Total": "11"}
+{"course_name": "ESS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "3", "BB": "2", "Total": "10"}
+{"course_name": "ESS801", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "2", "AB": "2", "BB": "1", "Total": "5"}
+{"course_name": "ESS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "5", "AB": "2", "Total": "7"}
+{"course_name": "ESS801", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "AB": "4", "II": "2", "Total": "7"}
+{"course_name": "ESS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "4", "BB": "2", "BC": "1", "FR": "1", "Total": "10"}
+{"course_name": "ESS801", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "AB": "5", "Total": "8"}
+{"course_name": "SOM620", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "2", "AB": "14", "BB": "21", "BC": "11", "Total": "48"}
+{"course_name": "SOM620", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "3", "AB": "5", "BB": "17", "BC": "1", "Total": "26"}
+{"course_name": "SOM620", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "AB": "14", "BB": "19", "BC": "25", "II": "1", "Total": "60"}
+{"course_name": "SOM794", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "Total": "1"}
+{"course_name": "MNG802", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AB": "1", "BB": "2", "BC": "3", "CC": "1", "CD": "1", "FR": "1", "Total": "9"}
+{"course_name": "MNG802", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "9", "BB": "11", "BC": "7", "CC": "7", "CD": "4", "DD": "1", "Total": "43"}
+{"course_name": "MNG802", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "8", "AU": "1", "BB": "6", "BC": "5", "CC": "2", "FR": "1", "Total": "30"}
+{"course_name": "MNG802", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "7", "AB": "9", "BB": "14", "BC": "7", "CC": "5", "CD": "1", "Total": "43"}
+{"course_name": "ENT101", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "72", "AB": "73", "AP": "4", "BB": "39", "BC": "4", "CC": "2", "DD": "2", "II": "1", "Total": "197"}
+{"course_name": "ENT101", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "66", "AB": "80", "AP": "4", "BB": "27", "BC": "13", "CC": "6", "CD": "3", "DD": "1", "Total": "200"}
+{"course_name": "SCS801", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "FF": "1", "Total": "1"}
+{"course_name": "SCS801", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "3", "Total": "3"}
+{"course_name": "SCS801", "year": "2021", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "FR": "1", "Total": "2"}
+{"course_name": "SCS801", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "AB": "1", "Total": "1"}
+{"course_name": "SCS801", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AB": "3", "Total": "7"}
+{"course_name": "SCS801", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AB": "2", "Total": "2"}
+{"course_name": "CSS802", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AB": "1", "Total": "1"}
+{"course_name": "CSS802", "year": "2020", "semester": 1, "title": "Total Grades Given for are", "BB": "1", "Total": "1"}
+{"course_name": "CSS802", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "FR": "2", "Total": "2"}
+{"course_name": "CSS802", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "FR": "1", "Total": "1"}
+{"course_name": "GNR642", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "4", "AU": "2", "Total": "6"}
+{"course_name": "GNR642", "year": "2022", "semester": 2, "title": "Total Grades Given for are", "AA": "4", "Total": "4"}
+{"course_name": "GNR642", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AB": "4", "AU": "2", "BB": "3", "BC": "1", "CD": "1", "Total": "11"}
+{"course_name": "GNR642", "year": "2019", "semester": 2, "title": "Total Grades Given for are", "AA": "1", "AB": "7", "AU": "1", "BB": "3", "Total": "12"}
+{"course_name": "SOM899", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "PP": "8", "Total": "8"}
+{"course_name": "SOM899", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "NP": "2", "PP": "40", "Total": "42"}
+{"course_name": "GNR615", "year": "2022", "semester": 1, "title": "Total Grades Given for are", "AA": "19", "AB": "11", "AU": "2", "Total": "32"}
+{"course_name": "GNR615", "year": "2021", "semester": 1, "title": "Total Grades Given for are", "AA": "11", "AB": "7", "AU": "2", "BB": "3", "BC": "1", "FR": "2", "Total": "26"}
+{"course_name": "GNR615", "year": "2020", "semester": 2, "title": "Total Grades Given for are", "AA": "29", "AB": "1", "AU": "1", "BB": "2", "Total": "33"}
+{"course_name": "GNR615", "year": "2019", "semester": 1, "title": "Total Grades Given for are", "AA": "13", "AB": "9", "AU": "4", "BB": "4", "FF": "1", "Total": "31"}
