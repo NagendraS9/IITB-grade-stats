@@ -33,6 +33,7 @@ const columnDefs = [
 	{ headerName: 'Course Name', field: 'course_name', filter: 'agTextColumnFilter', sort: "asc", enableRowGroup: true, rowGroup: true, hide: true },
 	{ headerName: 'Year', field: 'year', enableRowGroup: true },
 	{ headerName: 'Semester', field: 'semester', enableRowGroup: true },
+	{ headerName: 'Instructor', field: 'Instructor', filter: 'agTextColumnFilter' },
 	{ headerName: 'Title', field: 'title', filter: 'agTextColumnFilter' },
 	{ headerName: 'AA', field: 'AA', chartDataType: 'series', aggFunc: 'avg', valueFormatter: params => Number.isInteger(params.value) ? params.value : parseFloat(params.value).toFixed(2) },
 	{
@@ -45,7 +46,7 @@ const columnDefs = [
 		},
 		aggFunc: 'avg',
 		valueFormatter: params => (parseFloat(params.value).toFixed(2) + "%"),
-		hide: true,
+		hide: false,
 	},
 	{ headerName: 'AB', field: 'AB', chartDataType: 'series', aggFunc: 'avg', valueFormatter: params => Number.isInteger(params.value) ? params.value : parseFloat(params.value).toFixed(2) },
 	{
@@ -58,7 +59,7 @@ const columnDefs = [
 		},
 		aggFunc: 'avg',
 		valueFormatter: params => (parseFloat(params.value).toFixed(2) + "%"),
-		hide: true,
+		hide: false,
 	},
 	{
 		headerName: 'AA+AB',
@@ -131,7 +132,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 function readFileAndCreateTable() {
-	fetch('grades.txt')
+	fetch('grades_sem2.txt')
 		.then(response => response.text())
 		.then(textData => {
 			const lines = textData.trim().split('\n');
